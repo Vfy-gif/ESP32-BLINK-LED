@@ -2,6 +2,8 @@
 
 Este repositório contém o projeto de um sistema **LED Blink** (Pisca-LED) desenvolvido para a plataforma **ESP32**. Este é o projeto fundamental para validar o funcionamento do hardware e a comunicação com a **Arduino IDE**.
 
+VIDEO: [LED-BLINK](https://youtu.be/K3_QRziKyBk)
+
 ---
 
 ## Descrição do Projeto
